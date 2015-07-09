@@ -1,5 +1,10 @@
 <resources>
     <string name="app_name">ToDoListManager</string>
+    <string name="button_add">Add New Task</string>
+    <string name="button_deleteOne">Delete Current Task</string>
+    <string name="button_deleteAll">Delete All</string>
+    <string name="add_date">Add Date</string>
+    <string name="alarm">Add Alarm</string>
 
     <string name="hello_world">Hello world!</string>
     <string name="action_settings">Settings</string>
